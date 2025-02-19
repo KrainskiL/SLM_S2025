@@ -39,7 +39,7 @@ Consultations: On MS Teams or Thursdays G-108 08:00-09:40 (with previous alignme
 |     Date      |     Subject                                           |
 |-------------------|-----------------------------------------------------------|
 |     2025-02-17    |     Introduction                                          |
-|     2025-03-24    |     Machine learning                                      |
+|     2025-02-24    |     Machine learning                                      |
 |     2025-03-03    |     Linear regression                                     |
 |     2025-03-10    |     Classification problems                               |
 |     2025-03-17    |     Business applications of   artificial intelligence    |
