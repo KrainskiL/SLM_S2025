@@ -15,7 +15,10 @@ You can use your own laptop or machines provided by SGH in the classroom (SGH ma
 **Contact**
 
 Name: Łukasz Kraiński
+
 Email: lkrain@sgh.waw.pl
+
+Consultations: On MS Teams or Thursdays G-108 08:00-09:40 (with previous alignment on Teams or e-mail)
 
 ---
 **Lecturers**
