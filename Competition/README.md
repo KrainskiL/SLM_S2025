@@ -17,3 +17,14 @@ Please check whether the ordering of predictions is consistent with the observat
 Table with ranking will appear in this README file. Best team in each course group will receive 5 points, next 4 points, etc.
 
 Good luck!
+
+## Results
+
+Group 12
+
+| **Team**          | **F1-score** | **Points** | **Model**              | **Language** |
+|-------------------|--------------|------------|------------------------|--------------|
+| Bingqiling        | 78.98        | 5          | Gradient Boosted Trees | Python       |
+| Cokolwiek         | 78.67        | 4          | Random Forest          | Python       |
+| The Winners       | 78.04        | 3          | Gradient Boosted Trees | Python       |
+| Flying Vietnamese | 77.99        | 2          | Random Forest          | Python       |
