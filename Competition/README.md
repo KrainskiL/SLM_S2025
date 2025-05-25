@@ -25,6 +25,16 @@ Good luck!
 
 ## Results
 
+Group 11
+
+| **Team**         | **Accuracy** | **Points** | **Model**                      | **Language** |
+|------------------|--------------|------------|--------------------------------|--------------|
+| 一家人           | 87.18        | 5          | Extreme Gradient Boosted Trees | Python       |
+| Stock Market Tiger | 87.16        | 4          | Light Gradient Boosted Trees   | Python       |
+| DeepHops GBT     | 87.14        | 3          | Gradient Boosted Trees         | Python       |
+| Space Cowboys    | 86.82        | 2          | ?                              | ?            |
+| We Don't Know       | 86.78        | 1          | Random Forest                  | Python       |
+
 Group 12
 
 | **Team**          | **F1-score** | **Points** | **Model**              | **Language** |
@@ -33,3 +43,13 @@ Group 12
 | Cokolwiek         | 78.67        | 4          | Random Forest          | Python       |
 | The Winners       | 78.04        | 3          | Gradient Boosted Trees | Python       |
 | Flying Vietnamese | 77.99        | 2          | Random Forest          | Python       |
+
+Group 13
+
+| **Team**                   | **Accuracy** | **Points** | **Model**              | **Language** |
+|----------------------------|--------------|------------|------------------------|--------------|
+| Lubię Sagres               | 86.98        | 5          | Gradient Boosted Trees | Python       |
+| Charli XCX Fan Club Polska | 86.78        | 4          | Gradient Boosted Trees | Python       |
+| Three Musketeers           | 86.64        | 3          | Random Forest          | Python       |
+| The Best Group             | 86.12        | 2          | Gradient Boosted Trees | Python       |
+| Maszyna Losująca           | 85.66        | 1          | Random Forest          | Python       |
