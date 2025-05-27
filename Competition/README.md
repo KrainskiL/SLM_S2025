@@ -32,7 +32,7 @@ Group 11
 | 一家人           | 87.18        | 5          | Extreme Gradient Boosted Trees | Python       |
 | Stock Market Tiger | 87.16        | 4          | Light Gradient Boosted Trees   | Python       |
 | DeepHops GBT     | 87.14        | 3          | Gradient Boosted Trees         | Python       |
-| Space Cowboys    | 86.82        | 2          | ?                              | ?            |
+| Space Cowboys    | 86.82        | 2          | Random Forest                              | Python            |
 | We Don't Know       | 86.78        | 1          | Random Forest                  | Python       |
 
 Group 12
